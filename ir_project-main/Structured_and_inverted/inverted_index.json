@@ -1,0 +1,2118 @@
+{
+    "prevents": [
+        "anti-disapparition jinx",
+        "anti-cheating spell",
+        "age line"
+    ],
+    "people": [
+        "levicorpus",
+        "age line"
+    ],
+    "certain": [
+        "anti-disapparition jinx",
+        "ministry of magic fog",
+        "age line"
+    ],
+    "age": [
+        "age line"
+    ],
+    "access": [
+        "age line"
+    ],
+    "target": [
+        "amplifying charm",
+        "avifors spell",
+        "banishing charm",
+        "shrinking charm",
+        "bandaging charm",
+        "disillusionment charm",
+        "knockback jinx duo",
+        "knockback jinx",
+        "placement charm",
+        "ebublio jinx",
+        "age line",
+        "glacius duo",
+        "glacius tria",
+        "oppugno jinx",
+        "incarcerous spell",
+        "revulsion jinx",
+        "badgering",
+        "bewitched snowballs",
+        "descendo",
+        "piertotum locomotor",
+        "launch an object up into the air",
+        "silencing charm",
+        "cantis",
+        "obscuro",
+        "stunning spell",
+        "flintifors",
+        "partis temporus",
+        "confundus charm",
+        "lapifors spell",
+        "unlocking charm",
+        "piscifors",
+        "waddiwasi",
+        "sectumsempra",
+        "inflating charm",
+        "homing spell",
+        "transmogrifian torture",
+        "freezing charm",
+        "stretching jinx",
+        "orbis jinx",
+        "herbifors spell",
+        "quietening charm",
+        "steleus",
+        "freezing spell"
+    ],
+    "great": [
+        "albus dumbledore's forceful spell"
+    ],
+    "force": [
+        "albus dumbledore's forceful spell"
+    ],
+    "loudens": [
+        "amplifying charm"
+    ],
+    "cheating": [
+        "anti-cheating spell",
+        "cribbing spell"
+    ],
+    "disapparition": [
+        "anti-disapparition jinx"
+    ],
+    "within": [
+        "anti-disapparition jinx"
+    ],
+    "area": [
+        "protego totalum",
+        "homonculous charm",
+        "anti-disapparition jinx"
+    ],
+    "repels": [
+        "muggle-repelling charm",
+        "spider repelling spell",
+        "repello inimicum",
+        "anti-intruder jinx"
+    ],
+    "intruders": [
+        "intruder charm",
+        "anti-intruder jinx"
+    ],
+    "injuries": [
+        "episkey",
+        "antonin dolohov's curse"
+    ],
+    "capable": [
+        "antonin dolohov's curse"
+    ],
+    "killing": [
+        "antonin dolohov's curse"
+    ],
+    "magically": [
+        "apparition",
+        "reparifors"
+    ],
+    "transports": [
+        "apparition"
+    ],
+    "caster": [
+        "apparition",
+        "taboo",
+        "cribbing spell",
+        "legilimency spell",
+        "seize and pull charm",
+        "ascendio"
+    ],
+    "jet": [
+        "red sparks",
+        "ventus duo",
+        "ventus jinx",
+        "blue sparks",
+        "aqua eructo charm",
+        "hot-air charm",
+        "green sparks",
+        "white sparks",
+        "baubillious"
+    ],
+    "water": [
+        "water-making spell",
+        "aqua eructo charm",
+        "vera verto",
+        "drought charm"
+    ],
+    "fires": [
+        "extinguishing spell",
+        "arrow-shooting spell"
+    ],
+    "arrows": [
+        "arrow-shooting spell"
+    ],
+    "casters": [
+        "magicus extremos",
+        "protego diabolica",
+        "arrow-shooting spell"
+    ],
+    "wand": [
+        "verdillious",
+        "verdimillious duo spell",
+        "verdimillious charm",
+        "wand-lighting charm",
+        "four-point spell",
+        "sonorous charm",
+        "reverse spell",
+        "arrow-shooting spell"
+    ],
+    "lifts": [
+        "ascendio"
+    ],
+    "turns": [
+        "ducklifors jinx",
+        "portus",
+        "hardening charm",
+        "avenseguim",
+        "boggart-banishing spell",
+        "draconifors spell",
+        "cauldron to sieve",
+        "insect jinx",
+        "flintifors",
+        "badgering",
+        "lapifors spell",
+        "piscifors",
+        "tentaclifors",
+        "glisseo",
+        "vermiculus jinx"
+    ],
+    "object": [
+        "summoning charm",
+        "flying charm",
+        "hardening charm",
+        "placement charm",
+        "portus",
+        "avenseguim",
+        "revelio charm",
+        "draconifors spell",
+        "vacuum cleaner spell",
+        "doubling charm",
+        "unbreakable charm",
+        "slippery jinx",
+        "circumrota",
+        "permanent sticking charm",
+        "seize and pull charm",
+        "impervius charm"
+    ],
+    "tracking": [
+        "avenseguim"
+    ],
+    "device": [
+        "avenseguim"
+    ],
+    "transforms": [
+        "avifors spell",
+        "teacup to tortoise",
+        "herbifors spell",
+        "horn tongue hex",
+        "vera verto",
+        "cauldron to badger",
+        "bat-bogey hex",
+        "crinus muto",
+        "teapot to tortoise"
+    ],
+    "bird": [
+        "avifors spell"
+    ],
+    "uncontrollable": [
+        "babbling curse"
+    ],
+    "babbling": [
+        "babbling curse"
+    ],
+    "human": [
+        "homorphus charm",
+        "badgering",
+        "human presence revealing spell"
+    ],
+    "badger": [
+        "cauldron to badger",
+        "badgering"
+    ],
+    "bandages": [
+        "bandaging charm"
+    ],
+    "sends": [
+        "dancing feet spell",
+        "banishing charm"
+    ],
+    "away": [
+        "banishing charm"
+    ],
+    "targets": [
+        "ears to kumquats",
+        "horn tongue hex",
+        "slowing charm",
+        "bat-bogey hex",
+        "sponge-knees curse"
+    ],
+    "bogeys": [
+        "bat-bogey hex"
+    ],
+    "bats": [
+        "bat-bogey hex"
+    ],
+    "white": [
+        "white sparks",
+        "baubillious"
+    ],
+    "sparks": [
+        "red sparks",
+        "verdimillious charm",
+        "blue sparks",
+        "periculum",
+        "green sparks",
+        "white sparks",
+        "baubillious",
+        "verdimillious duo spell"
+    ],
+    "disguises": [
+        "disillusionment charm",
+        "bedazzling hex"
+    ],
+    "things": [
+        "vanishing spell",
+        "verdimillious charm",
+        "bedazzling hex",
+        "mobiliarbus",
+        "expulso curse",
+        "vermiculus jinx",
+        "verdimillious duo spell"
+    ],
+    "charms": [
+        "bewitched snowballs"
+    ],
+    "snowballs": [
+        "bewitched snowballs"
+    ],
+    "follow": [
+        "homing spell",
+        "bewitched snowballs"
+    ],
+    "harass": [
+        "bewitched snowballs"
+    ],
+    "designated": [
+        "bewitched snowballs"
+    ],
+    "conjures": [
+        "incendio duo spell",
+        "dark mark",
+        "bird-conjuring charm",
+        "fire-making spell",
+        "incendio tria",
+        "patronus charm",
+        "bluebell flames",
+        "water-making spell",
+        "bridge-conjuring spell",
+        "cracker jinx",
+        "flask-conjuring spell",
+        "orchideous",
+        "nebulus",
+        "snake summons spell",
+        "sauce-making spell"
+    ],
+    "birds": [
+        "bird-conjuring charm"
+    ],
+    "explosion": [
+        "exploding charm 2",
+        "shooting spell",
+        "exploding charm",
+        "blasting curse"
+    ],
+    "blue": [
+        "incendio tria",
+        "blue sparks"
+    ],
+    "bluebell": [
+        "bluebell flames"
+    ],
+    "flames": [
+        "incendio duo spell",
+        "incendio tria",
+        "fire-making spell",
+        "bluebell flames"
+    ],
+    "boggart": [
+        "boggart-banishing spell"
+    ],
+    "something": [
+        "boggart-banishing spell"
+    ],
+    "amusing": [
+        "boggart-banishing spell"
+    ],
+    "mends": [
+        "brackium emendo",
+        "papyrus reparo"
+    ],
+    "bones": [
+        "brackium emendo"
+    ],
+    "enhances": [
+        "bravery charm"
+    ],
+    "teammates": [
+        "bravery charm"
+    ],
+    "foes": [
+        "bravery charm",
+        "deterioration hex"
+    ],
+    "bridges": [
+        "bridge-conjuring spell"
+    ],
+    "makes": [
+        "sea urchin jinx",
+        "illegibilus",
+        "patented daydream charm",
+        "cantis",
+        "everte statum",
+        "levitation charm",
+        "unbreakable charm",
+        "hover charm",
+        "gripping charm",
+        "slippery jinx",
+        "teleportation spell",
+        "broom jinx",
+        "flame-freezing charm",
+        "cornflake skin spell",
+        "twitchy-ears hex"
+    ],
+    "broomstick": [
+        "hurling hex",
+        "broom jinx"
+    ],
+    "attempt": [
+        "hurling hex",
+        "broom jinx"
+    ],
+    "buck": [
+        "broom jinx"
+    ],
+    "rider": [
+        "hurling hex",
+        "broom jinx"
+    ],
+    "creates": [
+        "ventus duo",
+        "bubble-head charm",
+        "minerva mcgonagall's fire-creating spell",
+        "cheering charm",
+        "bubble-producing spell"
+    ],
+    "bubble": [
+        "bubble-head charm",
+        "ebublio jinx"
+    ],
+    "protecting": [
+        "bubble-head charm"
+    ],
+    "head": [
+        "melofors jinx",
+        "engorgio skullus",
+        "bubble-head charm",
+        "tentaclifors",
+        "head shrink spell",
+        "hex that grows antlers on the head"
+    ],
+    "stream": [
+        "bubble-producing spell"
+    ],
+    "nonbursting": [
+        "bubble-producing spell"
+    ],
+    "bubbles": [
+        "bubble-producing spell"
+    ],
+    "sing": [
+        "cantis"
+    ],
+    "attacks": [
+        "cascading jinx"
+    ],
+    "multiple": [
+        "cascading jinx",
+        "fumos duo"
+    ],
+    "enemies": [
+        "cascading jinx",
+        "repello inimicum",
+        "protego diabolica"
+    ],
+    "sets": [
+        "caterwauling charm"
+    ],
+    "highpitched": [
+        "caterwauling charm"
+    ],
+    "shriek": [
+        "caterwauling charm"
+    ],
+    "entered": [
+        "caterwauling charm"
+    ],
+    "cauldron": [
+        "cauldron to sieve",
+        "cauldron to badger"
+    ],
+    "sieve": [
+        "cauldron to sieve"
+    ],
+    "concealment": [
+        "ministry of magic fog",
+        "cave inimicum"
+    ],
+    "joy": [
+        "cheering charm"
+    ],
+    "rotates": [
+        "circumrota"
+    ],
+    "opens": [
+        "cistem aperio"
+    ],
+    "chests": [
+        "cistem aperio"
+    ],
+    "changes": [
+        "ferret to human",
+        "colour change charm",
+        "multicorfors spell"
+    ],
+    "colour": [
+        "colour change charm"
+    ],
+    "confuses": [
+        "confundus charm"
+    ],
+    "irritates": [
+        "conjunctivitis curse"
+    ],
+    "eyes": [
+        "conjunctivitis curse"
+    ],
+    "skin": [
+        "cornflake skin spell"
+    ],
+    "appear": [
+        "cornflake skin spell"
+    ],
+    "like": [
+        "cornflake skin spell",
+        "vacuum cleaner spell",
+        "verdillious"
+    ],
+    "cornflakes": [
+        "cornflake skin spell"
+    ],
+    "exploding": [
+        "cracker jinx",
+        "purple firecrackers"
+    ],
+    "wizard": [
+        "cracker jinx",
+        "unsupported flight"
+    ],
+    "crackers": [
+        "cracker jinx"
+    ],
+    "assists": [
+        "cribbing spell"
+    ],
+    "written": [
+        "cribbing spell"
+    ],
+    "papers": [
+        "cribbing spell"
+    ],
+    "hair": [
+        "hair-thickening charm",
+        "crinus muto",
+        "hair loss curse",
+        "instant scalping hex"
+    ],
+    "excruciating": [
+        "cruciatus curse"
+    ],
+    "pain": [
+        "everte statum",
+        "cruciatus curse"
+    ],
+    "nasty": [
+        "curse of the bogies"
+    ],
+    "cold": [
+        "curse of the bogies"
+    ],
+    "runny": [
+        "curse of the bogies"
+    ],
+    "nose": [
+        "pus-squirting hex",
+        "curse of the bogies"
+    ],
+    "invisible": [
+        "imperturbable charm",
+        "cushioning charm"
+    ],
+    "cushion": [
+        "cushioning charm"
+    ],
+    "legs": [
+        "dancing feet spell",
+        "sponge-knees curse",
+        "leg-locker curse",
+        "jelly-legs curse"
+    ],
+    "control": [
+        "dancing feet spell",
+        "imperius curse"
+    ],
+    "dark": [
+        "dark mark"
+    ],
+    "mark": [
+        "dark mark"
+    ],
+    "elongates": [
+        "densaugeo"
+    ],
+    "teeth": [
+        "densaugeo",
+        "teeth-straightening spell"
+    ],
+    "blasts": [
+        "deprimo"
+    ],
+    "holes": [
+        "deprimo"
+    ],
+    "ground": [
+        "deprimo",
+        "orbis jinx"
+    ],
+    "lowers": [
+        "descendo"
+    ],
+    "transfigures": [
+        "desk into pig",
+        "squiggle quill",
+        "ears to kumquats"
+    ],
+    "desks": [
+        "desk into pig"
+    ],
+    "pigs": [
+        "desk into pig"
+    ],
+    "impairs": [
+        "deterioration hex"
+    ],
+    "shrinks": [
+        "diminuendo",
+        "shrinking charm",
+        "head shrink spell"
+    ],
+    "objects": [
+        "inanimatus conjurus spell",
+        "severing charm",
+        "epoximise",
+        "flagrante curse",
+        "diminuendo",
+        "scouring charm",
+        "locomotion charm",
+        "reverte",
+        "oppugno jinx",
+        "specialis revelio",
+        "evanesce",
+        "teleportation spell",
+        "tergeo",
+        "softening charm",
+        "reductor curse",
+        "feather-light charm",
+        "levitation charm",
+        "mending charm",
+        "hover charm",
+        "protean charm",
+        "switching spell"
+    ],
+    "disarms": [
+        "disarming charm"
+    ],
+    "opponent": [
+        "everte statum",
+        "disarming charm"
+    ],
+    "surroundings": [
+        "disillusionment charm"
+    ],
+    "reveals": [
+        "dissendium",
+        "revelio charm",
+        "specialis revelio",
+        "tracking spell",
+        "revealing charm",
+        "human presence revealing spell"
+    ],
+    "secret": [
+        "fidelius charm",
+        "dissendium"
+    ],
+    "passages": [
+        "dissendium"
+    ],
+    "duplicates": [
+        "doubling charm"
+    ],
+    "dragon": [
+        "draconifors spell"
+    ],
+    "dries": [
+        "drought charm"
+    ],
+    "small": [
+        "shooting spell",
+        "drought charm",
+        "exploding charm"
+    ],
+    "bodies": [
+        "drought charm",
+        "mobilicorpus"
+    ],
+    "organisms": [
+        "ducklifors jinx"
+    ],
+    "ducks": [
+        "ducklifors jinx"
+    ],
+    "causes": [
+        "verdillious",
+        "ear-shrivelling curse",
+        "rowboat spell",
+        "hair-thickening charm",
+        "pus-squirting hex",
+        "dumbledore's army parchment jinx",
+        "everte statum",
+        "steleus",
+        "hurling hex",
+        "flagrante curse",
+        "toenail-growing hex",
+        "engorgement charm",
+        "meteolojinx recanto",
+        "sponge-knees curse",
+        "pimple jinx",
+        "fur spell"
+    ],
+    "boils": [
+        "dumbledore's army parchment jinx"
+    ],
+    "spell": [
+        "eradication spell",
+        "dumbledore's army parchment jinx",
+        "magicus extremos",
+        "reparifarge",
+        "general counter-spell"
+    ],
+    "sneak": [
+        "dumbledore's army parchment jinx"
+    ],
+    "face": [
+        "dumbledore's army parchment jinx"
+    ],
+    "traitor": [
+        "dumbledore's army parchment jinx"
+    ],
+    "ears": [
+        "leek jinx",
+        "twitchy-ears hex",
+        "ear-shrivelling curse",
+        "ears to kumquats"
+    ],
+    "wither": [
+        "ear-shrivelling curse"
+    ],
+    "kumquats": [
+        "ears to kumquats"
+    ],
+    "traps": [
+        "ebublio jinx"
+    ],
+    "giant": [
+        "ebublio jinx"
+    ],
+    "swelling": [
+        "engorgement charm"
+    ],
+    "swells": [
+        "engorgio skullus"
+    ],
+    "expels": [
+        "entrail-expelling curse"
+    ],
+    "entrails": [
+        "entrail-expelling curse"
+    ],
+    "heals": [
+        "reparifors",
+        "episkey"
+    ],
+    "minor": [
+        "reparifors",
+        "episkey"
+    ],
+    "bonds": [
+        "epoximise"
+    ],
+    "two": [
+        "switching spell",
+        "epoximise"
+    ],
+    "erases": [
+        "eradication spell",
+        "memory charm"
+    ],
+    "image": [
+        "eradication spell"
+    ],
+    "reverse": [
+        "eradication spell"
+    ],
+    "erects": [
+        "erecto"
+    ],
+    "structure": [
+        "erecto"
+    ],
+    "vanishes": [
+        "vanishing spell",
+        "snake-vanishing spell",
+        "evanesce"
+    ],
+    "stumble": [
+        "everte statum"
+    ],
+    "sharp": [
+        "everte statum"
+    ],
+    "powerful": [
+        "exploding charm 2",
+        "flipendo tria",
+        "protego horribilis"
+    ],
+    "blows": [
+        "expulso curse"
+    ],
+    "increases": [
+        "extension charm",
+        "magicus extremos"
+    ],
+    "interior": [
+        "extension charm"
+    ],
+    "space": [
+        "extension charm"
+    ],
+    "extinguishes": [
+        "wand-extinguishing charm",
+        "extinguishing spell"
+    ],
+    "implants": [
+        "false memory charm"
+    ],
+    "false": [
+        "false memory charm"
+    ],
+    "memory": [
+        "false memory charm"
+    ],
+    "victim": [
+        "reviving spell",
+        "sea urchin jinx",
+        "false memory charm",
+        "slug-vomiting charm",
+        "trip jinx",
+        "sardine hex",
+        "tail-growing hex",
+        "imperius curse"
+    ],
+    "minimises": [
+        "feather-light charm"
+    ],
+    "weight": [
+        "feather-light charm"
+    ],
+    "ferrets": [
+        "ferret to human"
+    ],
+    "humans": [
+        "ferret to human"
+    ],
+    "likely": [
+        "fianto duri"
+    ],
+    "hardens": [
+        "fianto duri"
+    ],
+    "magical": [
+        "fianto duri",
+        "unbreakable vow",
+        "shield penetration spell"
+    ],
+    "shields": [
+        "fianto duri",
+        "protego totalum",
+        "shield penetration spell"
+    ],
+    "conceals": [
+        "fidelius charm",
+        "muffliato charm"
+    ],
+    "unleashes": [
+        "fiendfyre"
+    ],
+    "cursed": [
+        "fiendfyre"
+    ],
+    "fire": [
+        "firestorm",
+        "protego diabolica",
+        "minerva mcgonagall's fire-creating spell",
+        "flame-freezing charm",
+        "fiendfyre"
+    ],
+    "shatters": [
+        "finestra spell"
+    ],
+    "glass": [
+        "finestra spell"
+    ],
+    "removes": [
+        "obliteration charm",
+        "finger-removing jinx",
+        "surgito",
+        "hair loss curse"
+    ],
+    "persons": [
+        "finger-removing jinx"
+    ],
+    "fingers": [
+        "jelly-fingers curse",
+        "finger-removing jinx"
+    ],
+    "ring": [
+        "protego diabolica",
+        "firestorm"
+    ],
+    "burn": [
+        "verdillious",
+        "flagrante curse"
+    ],
+    "contact": [
+        "flagrante curse",
+        "repello inimicum"
+    ],
+    "writes": [
+        "flagrate"
+    ],
+    "midair": [
+        "locomotion charm",
+        "flagrate"
+    ],
+    "harmless": [
+        "flame-freezing charm"
+    ],
+    "flask": [
+        "flask-conjuring spell"
+    ],
+    "matchboxes": [
+        "flintifors"
+    ],
+    "version": [
+        "flipendo tria"
+    ],
+    "flipendo": [
+        "flipendo tria"
+    ],
+    "allows": [
+        "flying charm",
+        "unsupported flight"
+    ],
+    "fly": [
+        "flying charm",
+        "unsupported flight",
+        "levitation charm"
+    ],
+    "points": [
+        "four-point spell"
+    ],
+    "due": [
+        "four-point spell"
+    ],
+    "north": [
+        "four-point spell"
+    ],
+    "stops": [
+        "freezing charm",
+        "slowing charm"
+    ],
+    "movement": [
+        "impediment jinx",
+        "freezing charm"
+    ],
+    "actions": [
+        "freezing charm"
+    ],
+    "freezes": [
+        "glacius duo",
+        "freezing spell",
+        "glacius tria"
+    ],
+    "temporary": [
+        "full body-bind curse"
+    ],
+    "paralysis": [
+        "full body-bind curse"
+    ],
+    "concealing": [
+        "fumos duo"
+    ],
+    "smokescreens": [
+        "fumos duo"
+    ],
+    "fur": [
+        "fur spell"
+    ],
+    "grow": [
+        "hair-thickening charm",
+        "fur spell",
+        "toenail-growing hex"
+    ],
+    "someone": [
+        "fur spell"
+    ],
+    "terminates": [
+        "general counter-spell"
+    ],
+    "effects": [
+        "meteolojinx recanto",
+        "reparifarge",
+        "general counter-spell"
+    ],
+    "enemy": [
+        "glacius tria"
+    ],
+    "stairs": [
+        "glisseo"
+    ],
+    "slide": [
+        "glisseo"
+    ],
+    "carves": [
+        "gouging spell"
+    ],
+    "material": [
+        "gouging spell"
+    ],
+    "green": [
+        "verdimillious charm",
+        "green sparks",
+        "verdimillious duo spell"
+    ],
+    "holding": [
+        "gripping charm"
+    ],
+    "easier": [
+        "gripping charm"
+    ],
+    "victims": [
+        "twitchy-ears hex",
+        "tentaclifors",
+        "toenail-growing hex",
+        "hair loss curse"
+    ],
+    "longer": [
+        "hair-thickening charm"
+    ],
+    "thicker": [
+        "hair-thickening charm"
+    ],
+    "stone": [
+        "hardening charm"
+    ],
+    "repairs": [
+        "harmonia nectere passus",
+        "oculus reparo"
+    ],
+    "vanishing": [
+        "harmonia nectere passus"
+    ],
+    "cabinets": [
+        "harmonia nectere passus"
+    ],
+    "clears": [
+        "healing spell",
+        "vulnera sanentur"
+    ],
+    "airway": [
+        "healing spell"
+    ],
+    "flowers": [
+        "herbifors spell",
+        "orchideous"
+    ],
+    "rapidly": [
+        "herbivicus charm"
+    ],
+    "grows": [
+        "mutatio skullus",
+        "herbivicus charm",
+        "hex that grows antlers on the head"
+    ],
+    "plants": [
+        "herbivicus charm"
+    ],
+    "antlers": [
+        "hex that grows antlers on the head"
+    ],
+    "offensive": [
+        "homing spell"
+    ],
+    "spells": [
+        "reverse spell",
+        "shield charm",
+        "specialis revelio",
+        "homing spell"
+    ],
+    "cast": [
+        "homonculous charm",
+        "specialis revelio",
+        "reverse spell"
+    ],
+    "onto": [
+        "homonculous charm"
+    ],
+    "map": [
+        "homonculous charm"
+    ],
+    "enables": [
+        "homonculous charm"
+    ],
+    "track": [
+        "homonculous charm",
+        "tracking spell"
+    ],
+    "movements": [
+        "homonculous charm"
+    ],
+    "every": [
+        "homonculous charm"
+    ],
+    "person": [
+        "legilimency spell",
+        "homonculous charm",
+        "revelio charm"
+    ],
+    "mapped": [
+        "homonculous charm"
+    ],
+    "may": [
+        "homorphus charm"
+    ],
+    "temporarily": [
+        "homorphus charm",
+        "magicus extremos"
+    ],
+    "change": [
+        "homorphus charm"
+    ],
+    "transformed": [
+        "homorphus charm"
+    ],
+    "werewolf": [
+        "homorphus charm"
+    ],
+    "back": [
+        "homorphus charm",
+        "knockback jinx duo",
+        "knockback jinx"
+    ],
+    "form": [
+        "homorphus charm"
+    ],
+    "according": [
+        "homorphus charm"
+    ],
+    "gilderoy": [
+        "homorphus charm"
+    ],
+    "lockhart": [
+        "homorphus charm"
+    ],
+    "cures": [
+        "homorphus charm"
+    ],
+    "lycanthropy": [
+        "homorphus charm"
+    ],
+    "prepared": [
+        "horcrux-making spell"
+    ],
+    "receptacle": [
+        "horcrux-making spell"
+    ],
+    "become": [
+        "jelly-fingers curse",
+        "sponge-knees curse",
+        "horcrux-making spell",
+        "jelly-legs curse"
+    ],
+    "horcrux": [
+        "horcrux-making spell"
+    ],
+    "tongue": [
+        "tongue-tying curse",
+        "langlock",
+        "horn tongue hex"
+    ],
+    "horn": [
+        "horn tongue hex"
+    ],
+    "allow": [
+        "horton-keitch braking charm"
+    ],
+    "broomsticks": [
+        "horton-keitch braking charm"
+    ],
+    "brake": [
+        "horton-keitch braking charm"
+    ],
+    "easily": [
+        "horton-keitch braking charm"
+    ],
+    "hot": [
+        "pepper breath hex",
+        "hot-air charm"
+    ],
+    "air": [
+        "hot-air charm"
+    ],
+    "reverses": [
+        "hour-reversal charm",
+        "reparifarge"
+    ],
+    "time": [
+        "hour-reversal charm"
+    ],
+    "hover": [
+        "hover charm"
+    ],
+    "presence": [
+        "human presence revealing spell"
+    ],
+    "unclear": [
+        "hurling hex"
+    ],
+    "possibly": [
+        "hurling hex",
+        "transmogrifian torture"
+    ],
+    "hurl": [
+        "hurling hex"
+    ],
+    "text": [
+        "illegibilus"
+    ],
+    "illegible": [
+        "illegibilus"
+    ],
+    "hinders": [
+        "impediment jinx"
+    ],
+    "total": [
+        "imperius curse"
+    ],
+    "barrier": [
+        "protego maxima",
+        "repello inimicum",
+        "imperturbable charm",
+        "protego horribilis"
+    ],
+    "waterproofs": [
+        "impervius charm"
+    ],
+    "presumably": [
+        "inanimatus conjurus spell"
+    ],
+    "conjuresinanimate": [
+        "inanimatus conjurus spell"
+    ],
+    "binds": [
+        "incarcerous spell"
+    ],
+    "ropes": [
+        "incarcerous spell"
+    ],
+    "inflates": [
+        "inflating charm"
+    ],
+    "adds": [
+        "informous spell"
+    ],
+    "folio": [
+        "informous spell"
+    ],
+    "bruti": [
+        "informous spell"
+    ],
+    "insect": [
+        "insect jinx"
+    ],
+    "instantly": [
+        "instant scalping hex"
+    ],
+    "scalps": [
+        "instant scalping hex"
+    ],
+    "detects": [
+        "stealth sensoring spell",
+        "intruder charm"
+    ],
+    "sounds": [
+        "intruder charm"
+    ],
+    "alarm": [
+        "intruder charm"
+    ],
+    "dulls": [
+        "jelly-brain jinx"
+    ],
+    "mental": [
+        "jelly-brain jinx"
+    ],
+    "abilities": [
+        "jelly-brain jinx"
+    ],
+    "wobbly": [
+        "jelly-fingers curse",
+        "jelly-legs curse"
+    ],
+    "instantaneous": [
+        "killing curse"
+    ],
+    "death": [
+        "killing curse",
+        "transmogrifian torture"
+    ],
+    "puts": [
+        "knee-reversal hex"
+    ],
+    "knees": [
+        "knee-reversal hex"
+    ],
+    "backward": [
+        "knee-reversal hex"
+    ],
+    "knocks": [
+        "knockback jinx duo",
+        "stunning spell",
+        "knockback jinx"
+    ],
+    "ignites": [
+        "lacarnum inflamari"
+    ],
+    "cloaks": [
+        "lacarnum inflamari"
+    ],
+    "sticks": [
+        "permanent sticking charm",
+        "stickfast hex",
+        "langlock",
+        "leg-locker curse"
+    ],
+    "roof": [
+        "langlock"
+    ],
+    "mouth": [
+        "langlock",
+        "oscausi"
+    ],
+    "rabbit": [
+        "lapifors spell"
+    ],
+    "rockets": [
+        "launch an object up into the air"
+    ],
+    "upward": [
+        "launch an object up into the air"
+    ],
+    "leeks": [
+        "leek jinx"
+    ],
+    "sprout": [
+        "leek jinx"
+    ],
+    "together": [
+        "leg-locker curse"
+    ],
+    "lets": [
+        "legilimency spell"
+    ],
+    "see": [
+        "legilimency spell"
+    ],
+    "mind": [
+        "legilimency spell"
+    ],
+    "another": [
+        "legilimency spell"
+    ],
+    "suspends": [
+        "levicorpus"
+    ],
+    "ankles": [
+        "levicorpus"
+    ],
+    "counteracts": [
+        "liberacorpus"
+    ],
+    "levicorpus": [
+        "liberacorpus"
+    ],
+    "locks": [
+        "locking spell"
+    ],
+    "doors": [
+        "locking spell"
+    ],
+    "moves": [
+        "locomotion charm",
+        "mobilicorpus"
+    ],
+    "produces": [
+        "ministry of magic fog",
+        "lumos maxima",
+        "lumos solem spell"
+    ],
+    "bright": [
+        "lumos maxima"
+    ],
+    "light": [
+        "wand-lighting charm duo",
+        "lumos maxima"
+    ],
+    "sunlight": [
+        "lumos solem spell"
+    ],
+    "power": [
+        "magicus extremos"
+    ],
+    "encases": [
+        "melofors jinx"
+    ],
+    "pumpkin": [
+        "melofors jinx"
+    ],
+    "memories": [
+        "memory charm"
+    ],
+    "fixes": [
+        "mending charm"
+    ],
+    "broken": [
+        "unbreakable vow",
+        "mending charm"
+    ],
+    "weather": [
+        "meteolojinx recanto"
+    ],
+    "caused": [
+        "meteolojinx recanto"
+    ],
+    "incantations": [
+        "meteolojinx recanto"
+    ],
+    "cease": [
+        "meteolojinx recanto"
+    ],
+    "special": [
+        "ministry of magic fog"
+    ],
+    "fog": [
+        "ministry of magic fog",
+        "nebulus"
+    ],
+    "locations": [
+        "ministry of magic fog"
+    ],
+    "levitates": [
+        "mobiliarbus"
+    ],
+    "wooden": [
+        "mobiliarbus"
+    ],
+    "sound": [
+        "muffliato charm"
+    ],
+    "muggles": [
+        "muggle-repelling charm"
+    ],
+    "clothes": [
+        "multicorfors spell"
+    ],
+    "extra": [
+        "mutatio skullus"
+    ],
+    "heads": [
+        "mutatio skullus"
+    ],
+    "footprints": [
+        "tracking spell",
+        "obliteration charm"
+    ],
+    "blindfolds": [
+        "obscuro"
+    ],
+    "glasses": [
+        "oculus reparo"
+    ],
+    "assaults": [
+        "oppugno jinx"
+    ],
+    "directed": [
+        "oppugno jinx"
+    ],
+    "sucks": [
+        "orbis jinx"
+    ],
+    "seals": [
+        "sealant charm",
+        "oscausi"
+    ],
+    "packs": [
+        "pack"
+    ],
+    "luggage": [
+        "pack"
+    ],
+    "torn": [
+        "papyrus reparo"
+    ],
+    "paper": [
+        "papyrus reparo"
+    ],
+    "parts": [
+        "partis temporus"
+    ],
+    "user": [
+        "patented daydream charm"
+    ],
+    "daydream": [
+        "patented daydream charm"
+    ],
+    "30": [
+        "patented daydream charm"
+    ],
+    "minutes": [
+        "patented daydream charm"
+    ],
+    "spirit": [
+        "patronus charm"
+    ],
+    "guardian": [
+        "patronus charm"
+    ],
+    "inflicts": [
+        "pepper breath hex"
+    ],
+    "fiery": [
+        "pepper breath hex"
+    ],
+    "breath": [
+        "pepper breath hex"
+    ],
+    "burst": [
+        "periculum"
+    ],
+    "red": [
+        "periculum",
+        "red sparks"
+    ],
+    "permanently": [
+        "permanent sticking charm"
+    ],
+    "place": [
+        "permanent sticking charm"
+    ],
+    "nothing": [
+        "peskipiksi pesternomi"
+    ],
+    "supposedly": [
+        "peskipiksi pesternomi"
+    ],
+    "captures": [
+        "peskipiksi pesternomi"
+    ],
+    "pixies": [
+        "peskipiksi pesternomi"
+    ],
+    "animates": [
+        "piertotum locomotor"
+    ],
+    "pimples": [
+        "pimple jinx"
+    ],
+    "erupt": [
+        "sea urchin jinx",
+        "pimple jinx"
+    ],
+    "fish": [
+        "piscifors"
+    ],
+    "places": [
+        "placement charm"
+    ],
+    "portkey": [
+        "portus"
+    ],
+    "links": [
+        "protean charm"
+    ],
+    "protective": [
+        "taboo",
+        "protego maxima",
+        "protego diabolica",
+        "protego horribilis"
+    ],
+    "black": [
+        "protego diabolica"
+    ],
+    "burns": [
+        "protego diabolica"
+    ],
+    "whilst": [
+        "verdillious",
+        "protego diabolica"
+    ],
+    "leaving": [
+        "protego diabolica"
+    ],
+    "allies": [
+        "protego diabolica"
+    ],
+    "unharmed": [
+        "protego diabolica"
+    ],
+    "summons": [
+        "summoning charm",
+        "protego maxima",
+        "protego horribilis"
+    ],
+    "large": [
+        "protego maxima"
+    ],
+    "firecrackers": [
+        "purple firecrackers"
+    ],
+    "yellowish": [
+        "pus-squirting hex"
+    ],
+    "goo": [
+        "pus-squirting hex"
+    ],
+    "squirt": [
+        "pus-squirting hex"
+    ],
+    "ones": [
+        "pus-squirting hex"
+    ],
+    "quietens": [
+        "quietening charm"
+    ],
+    "destroys": [
+        "reductor curse"
+    ],
+    "solid": [
+        "reductor curse"
+    ],
+    "refills": [
+        "refilling charm"
+    ],
+    "beverage": [
+        "refilling charm"
+    ],
+    "containers": [
+        "refilling charm"
+    ],
+    "incomplete": [
+        "reparifarge"
+    ],
+    "transformation": [
+        "reparifarge"
+    ],
+    "induced": [
+        "reparifors"
+    ],
+    "ailments": [
+        "reparifors"
+    ],
+    "used": [
+        "repello inimicum",
+        "shield penetration spell"
+    ],
+    "protego": [
+        "repello inimicum"
+    ],
+    "maxima": [
+        "repello inimicum"
+    ],
+    "fianto": [
+        "repello inimicum"
+    ],
+    "duri": [
+        "repello inimicum"
+    ],
+    "disintegrates": [
+        "repello inimicum"
+    ],
+    "anything": [
+        "repello inimicum"
+    ],
+    "comes": [
+        "repello inimicum"
+    ],
+    "hidden": [
+        "verdimillious duo spell",
+        "revealing charm",
+        "verdimillious charm"
+    ],
+    "writing": [
+        "squiggle quill",
+        "revealing charm"
+    ],
+    "secrets": [
+        "revelio charm"
+    ],
+    "shows": [
+        "reverse spell"
+    ],
+    "previous": [
+        "reverse spell"
+    ],
+    "returns": [
+        "reverte"
+    ],
+    "original": [
+        "reverte"
+    ],
+    "positions": [
+        "reverte"
+    ],
+    "states": [
+        "reverte"
+    ],
+    "awakens": [
+        "reviving spell"
+    ],
+    "forces": [
+        "shield charm",
+        "revulsion jinx"
+    ],
+    "let": [
+        "revulsion jinx"
+    ],
+    "go": [
+        "revulsion jinx"
+    ],
+    "accelerates": [
+        "rose growth"
+    ],
+    "growth": [
+        "rose growth"
+    ],
+    "rosebush": [
+        "rose growth"
+    ],
+    "rowboat": [
+        "rowboat spell"
+    ],
+    "propel": [
+        "rowboat spell"
+    ],
+    "hex": [
+        "salvio hexia"
+    ],
+    "deflection": [
+        "salvio hexia"
+    ],
+    "sneezes": [
+        "sardine hex"
+    ],
+    "sardines": [
+        "sardine hex"
+    ],
+    "sauce": [
+        "sauce-making spell"
+    ],
+    "cleans": [
+        "scouring charm",
+        "tergeo",
+        "vacuum cleaner spell",
+        "skurge charm",
+        "washing up spell"
+    ],
+    "tiny": [
+        "sea urchin jinx"
+    ],
+    "spikes": [
+        "sea urchin jinx"
+    ],
+    "envelopes": [
+        "sealant charm"
+    ],
+    "lacerates": [
+        "sectumsempra"
+    ],
+    "pull": [
+        "seize and pull charm"
+    ],
+    "towards": [
+        "seize and pull charm"
+    ],
+    "cuts": [
+        "severing charm"
+    ],
+    "reflects": [
+        "shield charm"
+    ],
+    "blocks": [
+        "shield charm"
+    ],
+    "physical": [
+        "shield charm"
+    ],
+    "break": [
+        "shield penetration spell"
+    ],
+    "gunshotsound": [
+        "shooting spell"
+    ],
+    "silences": [
+        "silencing charm"
+    ],
+    "ectoplasm": [
+        "skurge charm"
+    ],
+    "frightens": [
+        "skurge charm"
+    ],
+    "ghosts": [
+        "skurge charm"
+    ],
+    "spirits": [
+        "skurge charm"
+    ],
+    "slippery": [
+        "slippery jinx"
+    ],
+    "slows": [
+        "vulnera sanentur",
+        "slowing charm"
+    ],
+    "velocity": [
+        "slowing charm"
+    ],
+    "vomits": [
+        "slug-vomiting charm"
+    ],
+    "slugs": [
+        "slug-vomiting charm"
+    ],
+    "explosive": [
+        "smashing spell"
+    ],
+    "defensive": [
+        "smokescreen spell"
+    ],
+    "smokescreen": [
+        "smokescreen spell"
+    ],
+    "snake": [
+        "snake summons spell"
+    ],
+    "snakes": [
+        "snake-vanishing spell"
+    ],
+    "softens": [
+        "softening charm"
+    ],
+    "emits": [
+        "verdimillious duo spell",
+        "sonorous charm",
+        "verdimillious charm"
+    ],
+    "magnified": [
+        "sonorous charm"
+    ],
+    "roar": [
+        "sonorous charm"
+    ],
+    "tip": [
+        "wand-lighting charm",
+        "verdillious",
+        "sonorous charm"
+    ],
+    "potions": [
+        "specialis revelio"
+    ],
+    "spiders": [
+        "spider repelling spell"
+    ],
+    "spongy": [
+        "sponge-knees curse"
+    ],
+    "quills": [
+        "squiggle quill"
+    ],
+    "worms": [
+        "squiggle quill",
+        "vermiculus jinx"
+    ],
+    "magicaldisguise": [
+        "stealth sensoring spell"
+    ],
+    "sneeze": [
+        "steleus"
+    ],
+    "shoes": [
+        "stickfast hex"
+    ],
+    "floor": [
+        "stickfast hex"
+    ],
+    "stings": [
+        "stinging jinx"
+    ],
+    "flesh": [
+        "stinging jinx"
+    ],
+    "expands": [
+        "stretching jinx"
+    ],
+    "superior": [
+        "supersensory charm"
+    ],
+    "perception": [
+        "supersensory charm"
+    ],
+    "enchantments": [
+        "surgito",
+        "taboo"
+    ],
+    "switches": [
+        "switching spell"
+    ],
+    "word": [
+        "taboo"
+    ],
+    "spoken": [
+        "taboo"
+    ],
+    "alerted": [
+        "taboo"
+    ],
+    "around": [
+        "taboo"
+    ],
+    "speaker": [
+        "taboo"
+    ],
+    "weakened": [
+        "taboo"
+    ],
+    "gives": [
+        "tail-growing hex"
+    ],
+    "tail": [
+        "tail-growing hex"
+    ],
+    "teacup": [
+        "teacup to tortoise"
+    ],
+    "tortoise": [
+        "teacup to tortoise",
+        "teapot to tortoise"
+    ],
+    "teapot": [
+        "teapot to tortoise"
+    ],
+    "straightens": [
+        "teeth-straightening spell"
+    ],
+    "teleport": [
+        "teleportation spell"
+    ],
+    "elsewhere": [
+        "teleportation spell"
+    ],
+    "tentacle": [
+        "tentaclifors"
+    ],
+    "tickles": [
+        "tickling hex",
+        "tickling charm"
+    ],
+    "weakens": [
+        "tickling hex",
+        "tickling charm"
+    ],
+    "toenails": [
+        "toenail-growing hex"
+    ],
+    "alarmingly": [
+        "toenail-growing hex"
+    ],
+    "fast": [
+        "toenail-growing hex"
+    ],
+    "ties": [
+        "tongue-tying curse"
+    ],
+    "knot": [
+        "tongue-tying curse"
+    ],
+    "traces": [
+        "tracking spell"
+    ],
+    "magic": [
+        "tracking spell"
+    ],
+    "including": [
+        "tracking spell"
+    ],
+    "marks": [
+        "tracking spell"
+    ],
+    "tortures": [
+        "transmogrifian torture"
+    ],
+    "transfiguring": [
+        "transmogrifian torture"
+    ],
+    "trips": [
+        "trip jinx"
+    ],
+    "twitch": [
+        "twitchy-ears hex"
+    ],
+    "unbreakable": [
+        "unbreakable charm"
+    ],
+    "vow": [
+        "unbreakable vow"
+    ],
+    "fatal": [
+        "unbreakable vow"
+    ],
+    "unlocks": [
+        "unlocking charm"
+    ],
+    "witch": [
+        "unsupported flight"
+    ],
+    "unaided": [
+        "unsupported flight"
+    ],
+    "vacuum": [
+        "vacuum cleaner spell"
+    ],
+    "cleaner": [
+        "vacuum cleaner spell"
+    ],
+    "stronger": [
+        "ventus duo"
+    ],
+    "wind": [
+        "ventus duo",
+        "ventus jinx"
+    ],
+    "compared": [
+        "ventus duo"
+    ],
+    "ventus": [
+        "ventus duo"
+    ],
+    "spiralling": [
+        "ventus jinx"
+    ],
+    "animals": [
+        "vera verto"
+    ],
+    "goblets": [
+        "vera verto"
+    ],
+    "sparkler": [
+        "verdillious"
+    ],
+    "damaging": [
+        "verdillious"
+    ],
+    "foe": [
+        "verdillious"
+    ],
+    "damage": [
+        "verdimillious charm",
+        "verdimillious duo spell"
+    ],
+    "opponents": [
+        "verdimillious charm",
+        "verdimillious duo spell"
+    ],
+    "reveal": [
+        "verdimillious charm",
+        "verdimillious duo spell"
+    ],
+    "blood": [
+        "vulnera sanentur"
+    ],
+    "flow": [
+        "vulnera sanentur"
+    ],
+    "residue": [
+        "vulnera sanentur"
+    ],
+    "knits": [
+        "vulnera sanentur"
+    ],
+    "wounds": [
+        "vulnera sanentur"
+    ],
+    "propels": [
+        "waddiwasi"
+    ],
+    "wad": [
+        "waddiwasi"
+    ],
+    "wandlight": [
+        "wand-extinguishing charm"
+    ],
+    "illuminates": [
+        "wand-lighting charm"
+    ],
+    "focused": [
+        "wand-lighting charm duo"
+    ],
+    "beam": [
+        "wand-lighting charm duo"
+    ],
+    "dishes": [
+        "washing up spell"
+    ]
+}
